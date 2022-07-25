@@ -34,11 +34,11 @@
 - [🎱浅谈steam攻击者的伎俩🎱](https://mp.weixin.qq.com/s/IQ-lWcjXlflTLU_KMBZzgw)
 
 ## 📷截图
-#### 登录页面，不想输入手机号/密码的话用网易云APP扫二维码就行🐅
+#### 🐅登录页面，不想输入手机号/密码的话用网易云APP扫二维码就行
 
 ![快来试试吧](http://hoppinzq.com/image/chrome_VrOdnt9xOi.png)
 
-#### 我准备好了！😝
+#### 😝我准备好了！
 ![快来试试吧](http://hoppinzq.com/image/chrome_tJGT2o5RIJ.png)
 
 ## 🙏你应该学到
