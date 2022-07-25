@@ -7,7 +7,7 @@
 <p align='center'>“攻击”网易云音乐</p>
 
 <p align='center'>
-  <a href='https://discord.gg/UgKBCq9'>
+  <a href='http://1.15.232.156/'>
     <img src='https://img.shields.io/badge/-hoppinzq-green?logo=hoppinzq&logoColor=white&color=green'/>
   </a>
 </p>
